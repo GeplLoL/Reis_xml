@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="reisi">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="reis">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="sihtkoht" type="xs:string" />
+							<xs:element name="transport" type="xs:string" />
+							<xs:element name="hind" type="xs:string" />
+							<xs:element name="kestus" type="xs:unsignedByte" />
+							<xs:element name="lennufirma" type="xs:string" />
+							<xs:element name="reisi_kuupäev" type="xs:date" />
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:unsignedByte" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

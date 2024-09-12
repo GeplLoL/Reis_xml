@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<reisi>
+	<reis id="1">
+		<sihtkoht>Staré Mesto</sihtkoht>
+		<transport>Tribune Media Company</transport>
+		<hind>$2.69</hind>
+		<kestus>15</kestus>
+		<lennufirma>Captain Jack Thomas El Dorado Airport</lennufirma>
+		<reisi_kuupäev>2023-12-11</reisi_kuupäev>
+	</reis>
+	<reis id="2">
+		<sihtkoht>Panagyurishte</sihtkoht>
+		<transport>Enable Midstream Partners, LP</transport>
+		<hind>$1.94</hind>
+		<kestus>23</kestus>
+		<lennufirma>Pangnirtung Airport</lennufirma>
+		<reisi_kuupäev>2023-12-23</reisi_kuupäev>
+	</reis>
+	<reis id="3">
+		<sihtkoht>Wola Jachowa</sihtkoht>
+		<transport>Zebra Technologies Corporation</transport>
+		<hind>$6.83</hind>
+		<kestus>3</kestus>
+		<lennufirma>Ernabella Airport</lennufirma>
+		<reisi_kuupäev>2024-04-15</reisi_kuupäev>
+	</reis>
+	<reis id="4">
+		<sihtkoht>Gucheng</sihtkoht>
+		<transport>John Hancock Investors Trust</transport>
+		<hind>$0.51</hind>
+		<kestus>26</kestus>
+		<lennufirma>Propriá Airport</lennufirma>
+		<reisi_kuupäev>2024-03-13</reisi_kuupäev>
+	</reis>
+	<reis id="5">
+		<sihtkoht>Kristianstad</sihtkoht>
+		<transport>BGC Partners, Inc.</transport>
+		<hind>$5.09</hind>
+		<kestus>14</kestus>
+		<lennufirma>Mansehra Airport</lennufirma>
+		<reisi_kuupäev>2024-04-06</reisi_kuupäev>
+	</reis>
+	<reis id="6">
+		<sihtkoht>Ketangi</sihtkoht>
+		<transport>America Movil, S.A.B. de C.V.</transport>
+		<hind>$6.01</hind>
+		<kestus>9</kestus>
+		<lennufirma>Nenana Municipal Airport</lennufirma>
+		<reisi_kuupäev>2024-09-02</reisi_kuupäev>
+	</reis>
+	<reis id="7">
+		<sihtkoht>Bella Vista</sihtkoht>
+		<transport>Seres Therapeutics, Inc.</transport>
+		<hind>$2.20</hind>
+		<kestus>20</kestus>
+		<lennufirma>Arly Airport</lennufirma>
+		<reisi_kuupäev>2024-04-18</reisi_kuupäev>
+	</reis>
+	<reis id="8">
+		<sihtkoht>Cutral-Có</sihtkoht>
+		<transport>Novartis AG</transport>
+		<hind>$1.29</hind>
+		<kestus>5</kestus>
+		<lennufirma>Miandrivazo Airport</lennufirma>
+		<reisi_kuupäev>2024-06-14</reisi_kuupäev>
+	</reis>
+	<reis id="9">
+		<sihtkoht>Clondalkin</sihtkoht>
+		<transport>Compass Minerals International, Inc.</transport>
+		<hind>$6.54</hind>
+		<kestus>29</kestus>
+		<lennufirma>Gbangbatok Airport</lennufirma>
+		<reisi_kuupäev>2024-07-28</reisi_kuupäev>
+	</reis>
+	<reis id="10">
+		<sihtkoht>Xixiang</sihtkoht>
+		<transport>Tailored Brands, Inc.</transport>
+		<hind>$6.39</hind>
+		<kestus>30</kestus>
+		<lennufirma>Philadelphia International Airport</lennufirma>
+		<reisi_kuupäev>2024-04-12</reisi_kuupäev>
+	</reis>
+	<reis id="11">
+		<sihtkoht>Panchagarh</sihtkoht>
+		<transport>WesBanco, Inc.</transport>
+		<hind>$9.75</hind>
+		<kestus>26</kestus>
+		<lennufirma>Cherkasy International Airport</lennufirma>
+		<reisi_kuupäev>2023-12-26</reisi_kuupäev>
+	</reis>
+	<reis id="12">
+		<sihtkoht>Ban Phai</sihtkoht>
+		<transport>CVR Refining, LP</transport>
+		<hind>$5.28</hind>
+		<kestus>28</kestus>
+		<lennufirma>Cerro Largo International Airport</lennufirma>
+		<reisi_kuupäev>2023-12-28</reisi_kuupäev>
+	</reis>
+	<reis id="13">
+		<sihtkoht>Wissembourg</sihtkoht>
+		<transport>Tucows Inc.</transport>
+		<hind>$9.90</hind>
+		<kestus>17</kestus>
+		<lennufirma>Lese Airport</lennufirma>
+		<reisi_kuupäev>2024-01-03</reisi_kuupäev>
+	</reis>
+	<reis id="14">
+		<sihtkoht>Minsk</sihtkoht>
+		<transport>Peregrine Pharmaceuticals Inc.</transport>
+		<hind>$8.47</hind>
+		<kestus>13</kestus>
+		<lennufirma>Miramichi Airport</lennufirma>
+		<reisi_kuupäev>2024-02-04</reisi_kuupäev>
+	</reis>
+	<reis id="15">
+		<sihtkoht>Sóc Son</sihtkoht>
+		<transport>iShares Fallen Angels USD Bond ETF</transport>
+		<hind>$0.30</hind>
+		<kestus>30</kestus>
+		<lennufirma>Wekweètì Airport</lennufirma>
+		<reisi_kuupäev>2024-03-08</reisi_kuupäev>
+	</reis>
+	<reis id="16">
+		<sihtkoht>Fulnek</sihtkoht>
+		<transport>Maiden Holdings, Ltd.</transport>
+		<hind>$3.81</hind>
+		<kestus>3</kestus>
+		<lennufirma>Vancouver Harbour Water Aerodrome</lennufirma>
+		<reisi_kuupäev>2023-11-08</reisi_kuupäev>
+	</reis>
+	<reis id="17">
+		<sihtkoht>Zipárion</sihtkoht>
+		<transport>Cousins Properties Incorporated</transport>
+		<hind>$2.14</hind>
+		<kestus>1</kestus>
+		<lennufirma>Nakhon Ratchasima Airport</lennufirma>
+		<reisi_kuupäev>2023-10-24</reisi_kuupäev>
+	</reis>
+	<reis id="18">
+		<sihtkoht>Kohtla-Järve</sihtkoht>
+		<transport>Check-Cap Ltd.</transport>
+		<hind>$5.93</hind>
+		<kestus>27</kestus>
+		<lennufirma>Vicksburg Municipal Airport</lennufirma>
+		<reisi_kuupäev>2024-02-28</reisi_kuupäev>
+	</reis>
+	<reis id="19">
+		<sihtkoht>Quiches</sihtkoht>
+		<transport>Second Sight Medical Products, Inc.</transport>
+		<hind>$9.62</hind>
+		<kestus>24</kestus>
+		<lennufirma>Arar Domestic Airport</lennufirma>
+		<reisi_kuupäev>2023-09-27</reisi_kuupäev>
+	</reis>
+	<reis id="20">
+		<sihtkoht>Kryva Hora</sihtkoht>
+		<transport>Great Plains Energy Inc</transport>
+		<hind>$2.19</hind>
+		<kestus>23</kestus>
+		<lennufirma>El Gora Airport</lennufirma>
+		<reisi_kuupäev>2024-08-10</reisi_kuupäev>
+	</reis>
+	<reis id="21">
+		<sihtkoht>Alikalia</sihtkoht>
+		<transport>Generac Holdlings Inc.</transport>
+		<hind>$2.24</hind>
+		<kestus>4</kestus>
+		<lennufirma>Ayr Airport</lennufirma>
+		<reisi_kuupäev>2023-11-14</reisi_kuupäev>
+	</reis>
+	<reis id="22">
+		<sihtkoht>Jicun</sihtkoht>
+		<transport>EV Energy Partners, L.P.</transport>
+		<hind>$5.87</hind>
+		<kestus>5</kestus>
+		<lennufirma>Bajura Airport</lennufirma>
+		<reisi_kuupäev>2023-10-18</reisi_kuupäev>
+	</reis>
+	<reis id="23">
+		<sihtkoht>Kuala Lumpur</sihtkoht>
+		<transport>Urban Edge Properties</transport>
+		<hind>$3.95</hind>
+		<kestus>21</kestus>
+		<lennufirma>Innisfail Airport</lennufirma>
+		<reisi_kuupäev>2023-10-20</reisi_kuupäev>
+	</reis>
+	<reis id="24">
+		<sihtkoht>Xicheng</sihtkoht>
+		<transport>Sutherland Asset Management Corporation</transport>
+		<hind>$2.53</hind>
+		<kestus>19</kestus>
+		<lennufirma>Porto Seguro Airport</lennufirma>
+		<reisi_kuupäev>2024-03-25</reisi_kuupäev>
+	</reis>
+	<reis id="25">
+		<sihtkoht>Meilin</sihtkoht>
+		<transport>Discovery Communications, Inc.</transport>
+		<hind>$7.94</hind>
+		<kestus>18</kestus>
+		<lennufirma>Angelina County Airport</lennufirma>
+		<reisi_kuupäev>2023-12-24</reisi_kuupäev>
+	</reis>
+	<reis id="26">
+		<sihtkoht>Novi Bilokorovychi</sihtkoht>
+		<transport>BlackRock Utility and Infrastructure Trust</transport>
+		<hind>$1.51</hind>
+		<kestus>13</kestus>
+		<lennufirma>Mosjøen Airport (Kjærstad)</lennufirma>
+		<reisi_kuupäev>2023-10-26</reisi_kuupäev>
+	</reis>
+	<reis id="28">
+		<sihtkoht>Saubara</sihtkoht>
+		<transport>Bryn Mawr Bank Corporation</transport>
+		<hind>$3.13</hind>
+		<kestus>3</kestus>
+		<lennufirma>Jim Hamilton L.B. Owens Airport</lennufirma>
+		<reisi_kuupäev>2024-04-02</reisi_kuupäev>
+	</reis>
+	<reis id="29">
+		<sihtkoht>San Jose</sihtkoht>
+		<transport>Energy Focus, Inc.</transport>
+		<hind>$6.39</hind>
+		<kestus>19</kestus>
+		<lennufirma>Palma Airport</lennufirma>
+		<reisi_kuupäev>2023-10-28</reisi_kuupäev>
+	</reis>
+	<reis id="30">
+		<sihtkoht>Vista Hermosa</sihtkoht>
+		<transport>R1 RCM Inc.</transport>
+		<hind>$4.80</hind>
+		<kestus>3</kestus>
+		<lennufirma>Kambalda Airport</lennufirma>
+		<reisi_kuupäev>2024-07-11</reisi_kuupäev>
+	</reis>
+</reisi>
